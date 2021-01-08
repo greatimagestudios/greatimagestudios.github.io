@@ -1,0 +1,59 @@
+@media (max-width: 767px) {
+    .hero-unit {
+        padding: 40px;
+    }
+
+    .hero-unit h1 {
+        font-size: 40px;
+    }
+}
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.phoneno {
+    font-weight: bold;
+}
+
+body {
+    margin-top: 1em;
+}
+
+.underimage {
+    padding-top: 1em;
+}
+
+.footer {
+    text-align: center;
+    padding: 3em;
+}
+
+.news {
+    background-color: lightblue;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.rate-container {
+    background-color: #eee;
+    border-radius: 3px;
+}
+
+.rate-cell {
+
+}
+@media (max-width: 767px) {
+.rate-content {
+    padding-left: 1em;
+}
+}
