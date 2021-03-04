@@ -1,4 +1,4 @@
 # COVID-19 Update
 
-**Latest Lockown information -  updated February 2021 - It doesn't look like we'll be open until sometime in March. Further updates will be posted when they are received.**
+**Latest Lockown information -  updated March 2021 - It doesn't look like we'll be open until May 17th. Further updates will be posted when they are received.**
 
