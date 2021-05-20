@@ -1,6 +1,6 @@
-### Hourly Rates
+n### Hourly Rates
 
-***Daytime, 7 days a week***
+***Daytime weekends***
 
 | ---------- | ----------: |
 | Large      | £12         |
