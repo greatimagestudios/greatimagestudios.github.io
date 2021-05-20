@@ -1,4 +1,4 @@
-n### Hourly Rates
+### Hourly Rates
 
 ***Daytime weekends***
 
