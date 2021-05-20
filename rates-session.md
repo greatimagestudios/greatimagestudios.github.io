@@ -1,6 +1,6 @@
 ### 4 Hour Sessions
 
-***Evenings, 7 days a week***
+***Evenings, Monday - Friday***
 
 | ---------- | ----------: |
 | Large      | £48         |
