@@ -1,4 +1,4 @@
 # COVID-19 Update
 
-**Latest Lockdown information -  updated June 2021 -  We're back open ...**
+**Latest Lockdown information -  updated July 2021 -  Still open ...**
 
