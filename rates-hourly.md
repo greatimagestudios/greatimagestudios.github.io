@@ -1,6 +1,6 @@
 ### Hourly Rates
 
-***Daytime weekends - per hour rates***
+***Daytime weekdays and weekends - per hour rates***
 
 | ---------- | ----------: |
 | Large      | £12         |
