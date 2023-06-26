@@ -1,6 +1,6 @@
 ### Hourly Rates
 
-***Weekends - per hour rates***
+***Weekends and Bank Holidays - per hour rates***
 
 | ---------- | ----------: |
 | Large      | £12.50         |
