@@ -7,4 +7,4 @@
 | Medium     | £11.50         |
 | Small      | £10.50         |
 
-<small>10 am – 6:00 pm<br/>2 hour minimum session<br/>Closed Saturdays.</small>
+<small>10:00 am – 6:00 pm<br/>2 hour minimum session<br/>Closed Saturdays.</small>
