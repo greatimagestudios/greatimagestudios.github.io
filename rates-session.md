@@ -1,6 +1,6 @@
-### 4 Hour Sessions
+### 4 Hour Evening Sessions
 
-***Evenings, Monday - Friday***
+***Evenings, Sunday - Friday***
 
 | ---------- | ----------: |
 | Large      | £50         |
