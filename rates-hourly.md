@@ -9,7 +9,7 @@
 | Medium     | £11.50         |
 | Small      | £10.50         |
 
-***4 hours and over***
+***Up to 3 hours***
 
 | ---------- | ----------: |
 | Large      | £13.00         |
