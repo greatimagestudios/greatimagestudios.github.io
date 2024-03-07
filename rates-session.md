@@ -1,5 +1,5 @@
 ### 4 Hour Evening Sessions
-***4 hours***
+***Over 3 hours***
 
 ***Evenings, Sunday - Friday***
 
