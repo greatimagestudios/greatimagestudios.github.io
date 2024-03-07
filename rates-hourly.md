@@ -1,10 +1,19 @@
 ### Hourly Rates
 
-***Sundays and Bank Holidays - per hour rates***
+***Weekends, Weekday Daytime and Bank Holidays - per hour rates***
 
+***Up to 4 hours***
+| ---------- | ----------: |
+| Large      | £13.00         |
+| Medium     | £12.00         |
+| Small      | £11.00         |
+
+***4 hours and over***
 | ---------- | ----------: |
 | Large      | £12.50         |
 | Medium     | £11.50         |
 | Small      | £10.50         |
 
-<small>10:00 am – 6:00 pm<br/>2 hour minimum session<br/>Closed Saturdays.</small>
+<small>10:00 am – 6:00 pm<br/>2 hour minimum session<br/></small>
+
+
