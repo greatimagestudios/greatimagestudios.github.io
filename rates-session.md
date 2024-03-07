@@ -15,9 +15,9 @@
 ***Evenings, Sunday - Friday***
 
 | ---------- | ----------: |
-| Large      | £40         |          
+| Large      | n/a         |          
 | Medium     | £36         |
-| Small      | £32         |
+| Small      | £33         |
 
 <small>Evening sessions are 3 or 4 hours between 7-11pm.</small>
 
