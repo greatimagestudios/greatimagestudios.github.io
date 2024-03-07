@@ -17,7 +17,7 @@
 | ---------- | ----------: |
 | Large      | £40         |          
 | Medium     | £36         |
-| Small      | £33         |
+| Small      | £32         |
 
 <small>Evening sessions are 3 or 4 hours between 7-11pm.</small>
 
