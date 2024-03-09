@@ -1,4 +1,4 @@
-If you’re coming via the new A555 bypass (you might need a dinghy in wet weather), turn left at the end of the bypass onto the A6 and first left again shortly afterwards. Follow the road you see us on the right where the ends.
+If you’re coming via the new A555 bypass, turn left at the end of the bypass onto the A6 and first left again shortly afterwards. Follow the road you see us on the right where the ends.
 
 The studios are located on the old A6 Buxton Road which has now been bypassed.
 
