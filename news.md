@@ -1,10 +1,12 @@
-### Contact Us
+### Breaking News...
 
-For bookings, availability and general enquires please give us a call or send us an SMS or email:
+The studio is changing hands! From 25th July 2025 the new proprietor will be:
     
-**07734 662 995**
+### Bon Hollowy ~ High Peak Recordings
 
-gistudios@ icloud.com
+### bon@highpeakrecordings.com
+
+### www.highpeakrecordings.com
 
 
 
