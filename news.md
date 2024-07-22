@@ -1,6 +1,6 @@
 ### Breaking News...
 
-The studio is changing hands!  From 25th July 2025. For future booking please contact:
+The studio is changing hands!  From 25th July 2025. For future bookings please contact:
     
 ### Bon Holloway ~ High Peak Recordings
 
