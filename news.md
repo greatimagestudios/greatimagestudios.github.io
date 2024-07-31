@@ -1,6 +1,6 @@
 ### Breaking News...
 
-The studio has changed hands! For future bookings please contact:
+### The studio has changed hands! For future bookings please contact:
     
 ### Bon Holloway ~ High Peak Recordings
 
